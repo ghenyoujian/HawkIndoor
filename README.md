@@ -1,2 +1,2 @@
 # HawkIndoor
-HawkIndoor: A Visual-Inertial Indoor UAV Navigation Framework
+HawkIndoor: Visual-Maekers Indoor UAV Navigation Framework

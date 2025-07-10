@@ -1,2 +1,2 @@
 # HawkIndoor
-HawkIndoor: Visual-Maekers Indoor UAV Navigation Framework
+HawkIndoor: Visual-Markers Indoor UAV Navigation Framework
